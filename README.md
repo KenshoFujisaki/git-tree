@@ -22,7 +22,7 @@ $git tree
 
 ## Install
 ```
-$pip install git-tree
+$pip install git+https://github.com/KenshoFujisaki/git-tree
 ```
 
 ## Licence
